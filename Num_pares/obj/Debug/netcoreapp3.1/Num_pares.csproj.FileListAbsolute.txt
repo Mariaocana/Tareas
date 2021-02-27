@@ -1,0 +1,13 @@
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\bin\Debug\netcoreapp3.1\Num_pares.exe
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\bin\Debug\netcoreapp3.1\Num_pares.deps.json
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\bin\Debug\netcoreapp3.1\Num_pares.runtimeconfig.json
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\bin\Debug\netcoreapp3.1\Num_pares.runtimeconfig.dev.json
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\bin\Debug\netcoreapp3.1\Num_pares.dll
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\bin\Debug\netcoreapp3.1\Num_pares.pdb
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\obj\Debug\netcoreapp3.1\Num_pares.csprojAssemblyReference.cache
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\obj\Debug\netcoreapp3.1\Num_pares.AssemblyInfoInputs.cache
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\obj\Debug\netcoreapp3.1\Num_pares.AssemblyInfo.cs
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\obj\Debug\netcoreapp3.1\Num_pares.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\obj\Debug\netcoreapp3.1\Num_pares.dll
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\obj\Debug\netcoreapp3.1\Num_pares.pdb
+C:\Users\JORGE\source\repos\Num_pares\Num_pares\obj\Debug\netcoreapp3.1\Num_pares.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\bin\Debug\netcoreapp3.1\Area_perimetro.exe
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\bin\Debug\netcoreapp3.1\Area_perimetro.deps.json
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\bin\Debug\netcoreapp3.1\Area_perimetro.runtimeconfig.json
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\bin\Debug\netcoreapp3.1\Area_perimetro.runtimeconfig.dev.json
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\bin\Debug\netcoreapp3.1\Area_perimetro.dll
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\bin\Debug\netcoreapp3.1\Area_perimetro.pdb
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\obj\Debug\netcoreapp3.1\Area_perimetro.csprojAssemblyReference.cache
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\obj\Debug\netcoreapp3.1\Area_perimetro.AssemblyInfoInputs.cache
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\obj\Debug\netcoreapp3.1\Area_perimetro.AssemblyInfo.cs
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\obj\Debug\netcoreapp3.1\Area_perimetro.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\obj\Debug\netcoreapp3.1\Area_perimetro.dll
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\obj\Debug\netcoreapp3.1\Area_perimetro.pdb
+C:\Users\JORGE\source\repos\Area_perimetro\Area_perimetro\obj\Debug\netcoreapp3.1\Area_perimetro.genruntimeconfig.cache

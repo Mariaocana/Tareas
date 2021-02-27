@@ -1,0 +1,13 @@
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\bin\Debug\netcoreapp3.1\grad_radian.exe
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\bin\Debug\netcoreapp3.1\grad_radian.deps.json
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\bin\Debug\netcoreapp3.1\grad_radian.runtimeconfig.json
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\bin\Debug\netcoreapp3.1\grad_radian.runtimeconfig.dev.json
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\bin\Debug\netcoreapp3.1\grad_radian.dll
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\bin\Debug\netcoreapp3.1\grad_radian.pdb
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\obj\Debug\netcoreapp3.1\grad_radian.csprojAssemblyReference.cache
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\obj\Debug\netcoreapp3.1\grad_radian.AssemblyInfoInputs.cache
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\obj\Debug\netcoreapp3.1\grad_radian.AssemblyInfo.cs
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\obj\Debug\netcoreapp3.1\grad_radian.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\obj\Debug\netcoreapp3.1\grad_radian.dll
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\obj\Debug\netcoreapp3.1\grad_radian.pdb
+C:\Users\JORGE\source\repos\grad_radian\grad_radian\obj\Debug\netcoreapp3.1\grad_radian.genruntimeconfig.cache
